@@ -1,4 +1,4 @@
-# python flask api - uwsgi and nginx
+# python flask api
 This [**Docker**](https://www.docker.com/) image allows you to create [**Flask**](http://flask.pocoo.org/) web applications in [**Python**](https://www.python.org/) that run with [**uWSGI**](https://uwsgi-docs.readthedocs.org/en/latest/) and [**Nginx**](http://nginx.org/en/) in a single container.
 
 ## uwsgi-nginx-flask
